@@ -115,6 +115,8 @@ export default function Home() {
           /*src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"*/
           src="https://liceo.edu.ph/images/ico-liceo-big.png"
           className="w-full print:hidden"
+          width="1024"
+          height="1024"
           alt="Liceo logo"
         />
       </div>
