@@ -7,6 +7,5 @@ module.exports = {
  
   images: {
     domains: ["liceo.edu.ph"]
-  },
-  nextConfig
+  }
 }
